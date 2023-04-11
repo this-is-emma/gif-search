@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.4",
+    "node-fetch": "^3.3.1",
+    "tenorjs": "^1.0.10"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
+  }
 }
